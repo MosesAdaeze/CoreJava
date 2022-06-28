@@ -1,0 +1,8 @@
+   //New state -> New keyword.
+    //Runnable state -> start();.
+    //Not Runnable state -> sleep();, walt();
+    //Dead state -> stop();
+
+    //Java
+    //thread class -> Run();
+    //Runnable interface -> start();

@@ -1,0 +1,6 @@
+Streams are sequence of data that are read from the source and written
+to the destination.
+
+Types of streams
+*Byte Stream
+*Character Stream
